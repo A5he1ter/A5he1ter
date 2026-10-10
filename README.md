@@ -2,7 +2,12 @@
 
 <div align="center">
 
-### 清 林
+<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80" width="560" style="border-radius: 6px;" alt="Misty Mountains" />
+
+<br />
+<br />
+
+### 庆 霖
 *qinglinxx*
 
 <br />
@@ -10,12 +15,6 @@
 > *知不足而奋进，望远山而力行。*
 
 <br />
-
----
-
-<p style="color: #6e7781; font-size: 0.9em; letter-spacing: 0.05em;">
-  静水流深 · 守拙求真
-</p>
 
 <sub><code>@A5he1ter</code></sub>
 
